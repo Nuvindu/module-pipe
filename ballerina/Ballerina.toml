@@ -10,4 +10,7 @@ distribution = "2201.8.0"
 icon = "icon.png"
 
 [[platform.java17.dependency]]
+groupId = "io.xlibb.pipe"
+artifactId = "pipe-native"
+version = "1.4.2"
 path = "../native/build/libs/pipe-native-1.4.2-SNAPSHOT.jar"
